@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Chapter 4 - Cumulative Returns
+
+```yaml
+type: VideoExercise
+key: 2645f26791
+xp: 50
+```
+
+`@projector_key`
+242f67524beac198578166a7c22e2f93
