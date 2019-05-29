@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Chapter 4 - Cumulative Returns
+## Cumulative Returns
 
 ```yaml
 type: VideoExercise
